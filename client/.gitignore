@@ -7,7 +7,7 @@
 .secret
 # testing
 /coverage
-/.secret
+/secret
 
 # production
 /build
